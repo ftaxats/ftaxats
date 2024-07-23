@@ -45,3 +45,6 @@ class WhoAmI:
         CreateSkyNet()
         FinishMyNovel()
         # Assume 10 more awesome ambitions here  ;)
+```
+## My GitHub Stats
+![Akshat's GitHub stats](https://github-readme-stats.vercel.app/api?username=ftaxats&show_icons=true&hide=[%22issues%22])
